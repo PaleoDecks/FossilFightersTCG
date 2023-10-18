@@ -1,0 +1,61 @@
+Name	Set	ImageFile	Type	Attribute
+Squik	A	Squik.png	Vivosaur	Neutral
+The Barebones Brigade!!!	A	Barebones.png	Attack	
+The BB Bandits!!!	A	Bandits.png	Attack	
+Dynal	A	Dynal.png	Support	
+Unexpected Encounter	A	UE.png	Attack	
+Hero [M]	A	HeroM.png	Support	
+Hero [F]	A	HeroF.png	Support	
+Dr. Diggins	A	Diggings.png	Support	
+Rosie	A	Rosie.png	Support	
+Nick nack	A	Nick.png	Support	
+Pauleen	A	Paueen.png	Support	
+Todd	A	Todd.png	Support	
+Rupert	A	Rupert.png	Support	
+Joe WIldwest	A	Joe.png	Support	
+KL-33N	A	KL33N.png	Assist	
+Fossil Stadium	A	Sadium.png	Arena	
+Digadigamid	A	Digadigamid.png	Arena	
+Treasure Lake	A	TreasureLake.png	Arena	
+Spinax	A	Spinax.png	Vivosaur	Air
+Shanshan	A	Shanshan.png	Vivosaur	Air
+Metria	A	Metria.png	Vivosaur	Air
+M-Raptor	A	M-Raptor.png	Vivosaur	Air
+Tarbo	A	Tarbo.png	Vivosaur	Air
+Shoni	A	Shoni.png	Vivosaur	Water
+Krona	A	Krona.png	Vivosaur	Water
+Elasmo	A	Elasmo.png	Vivosaur	Water
+Futabi	A	Futabi.png	Vivosaur	Water
+Plesio	A	Plesio.png	Vivosaur	Water
+Carno	A	Carno.png	Vivosaur	Earth
+Carchar	A	Carchar.png	Vivosaur	Earth
+Acro	A	Acro.png	Vivosaur	Earth
+Daspleto	A	Daspleto.png	Vivosaur	Earth
+Venator	A	Venator.png	Vivosaur	Earth
+Megalo	A	Megalo.png	Vivosaur	Neutral
+Tro	A	Tro.png	Vivosaur	Neutral
+O-Raptor	A	O-Raptor.png	Vivosaur	Neutral
+Neo	A	Neo.png	Vivosaur	Neutral
+Allo	A	Allo.png	Vivosaur	Neutral
+T-Rex	A	T-Rex.png	Vivosaur	Fire
+Giganto	A	Giganto.png	Vivosaur	Fire
+S-Raptor	A	S-Raptor.png	Vivosaur	Fire
+U-Raptor	A	U-Raptor.png	Vivosaur	Fire
+Nychus	A	Nychus.png	Vivosaur	Fire
+T-Rex Lord	A	RexLord.png	Vivosaur	Fire
+Excavate	A	Excavate.png	Assist	
+Smashing Success	A	Smashing.png	Assist	
+Miraculous Fossil	A	Miraculous.png	Assist	
+FP Charge	A	Charge.png	Charge	
+Dynal (Full Art)	A	DynalFull.png	Support	
+Smashing Success (Full Art)	A	SmashingFull.png	Assist	
+Don Boneyard	A	DonBoneyard.png	Attack	
+Aleep	Status	Aleep.png	Token Status	
+Excite	Status	Excite.png	Token Status	
+Poison	Status	Poison.png	Token Status	
+Enrage	Status	Enrage.png	Token Status	
+Confuse	Status	Confuse.png	Token Status	
+Scare	Status	Scare.png	Token Status	
+Enflame	Status	Enflame.png	Token Status	
+Harden	Status	Harden.png	Token Status	
+Quicken	Status	Quicken.png	Token Status	

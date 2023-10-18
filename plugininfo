@@ -4,6 +4,18 @@
 <label>KOs</label>
 </playerstat>
 
+<playerstat>
+<label>Vivosaur 1 HP</label>
+</playerstat>
+
+<playerstat>
+<label>Vivosaur 2 HP/label>
+</playerstat>
+
+<playerstat>
+<label>Vivosaur 3 HP</label>
+</playerstat>
+
 <deckzone>
 <label>Deck</label>
 <shuffle>yes</shuffle>
@@ -76,6 +88,10 @@
 
 <definition>
 <kind>ISYOURFACEDOWNVISIBLE<kind>
+</definition>
+
+<definition>
+<kind>TABLEITEMSCALE</kind><value>50</value>
 </definition>
 
 </plugin>

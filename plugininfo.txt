@@ -9,7 +9,7 @@
 </playerstat>
 
 <playerstat>
-<label>Vivosaur 2 HP/label>
+<label>Vivosaur 2 HP</label>
 </playerstat>
 
 <playerstat>
@@ -91,7 +91,7 @@
 </definition>
 
 <definition>
-<kind>TABLEITEMSCALE</kind><value>50</value>
+<kind>TABLEITEMSCALE</kind><value>75</value>
 </definition>
 
 </plugin>

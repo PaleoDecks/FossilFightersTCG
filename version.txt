@@ -1,1 +1,8 @@
+<version>
 
+<lastupdateYYMMDD>231019</lastupdateYYMMDD>
+<versionurl>https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/version.txt</versionurl>
+<updateurl>https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/updatelist.txt</updateurl>
+<message>I just updated the plugin to include cool stuff.</message>
+
+</version>

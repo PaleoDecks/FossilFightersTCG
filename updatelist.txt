@@ -5,7 +5,8 @@ plugins/FFTCG/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.
 plugins/FFTCG/sets/carddata.txt	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/carddata	190334
 plugins/FFTCG/version.txt	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/version	32383
 CardImageURLs:
-A/Squik.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/A/Squik.png
+A/Squick.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/A/Squick.png
+A/Barebones.png  https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/A/Barebones.png
 A/Bandits.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/A/Bandits.png
 A/Dynal.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/A/Dynal.png
 A/UE.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/A/UE.png
@@ -42,7 +43,7 @@ A/Tro.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/se
 A/O-Raptor.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/A/O-Raptor.png
 A/Neo.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/A/Neo.png
 A/Allo.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/A/Allo.png
-A/T-Rex.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/A/T-Rex.png
+A/T-rex.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/A/T-rex.png
 A/Giganto.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/A/Giganto.png
 A/S-Raptor.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/A/S-Raptor.png
 A/U-Raptor.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/A/U-Raptor.png
@@ -55,7 +56,7 @@ A/Charge.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main
 A/DynalFull.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/A/DynalFull.png
 A/SmashingFull.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/A/SmashingFull.png
 A/DonBoneyard.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/A/DonBoneyard.png
-Status/Aleep.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/Status/Aleep.png
+Status/Sleep.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/Status/Sleep.png
 Status/Excite.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/Status/Excite.png
 Status/Poison.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/Status/Poison.png
 Status/Enrage.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/Status/Enrage.png

@@ -3,7 +3,7 @@ plugins/FFTCG/plugininfo.txt	https://raw.githubusercontent.com/PaleoDecks/Fossil
 plugins/FFTCG/pluginpreferences.txt	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/pluginpreferences.txt	231499
 plugins/FFTCG/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/general/cardback.jpg	-2610
 plugins/FFTCG/sets/carddata.txt	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/carddata	190370
-plugins/FFTCG/version.txt	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/version	32383
+plugins/FFTCG/version.txt	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/version.txt	32383
 CardImageURLs:
 A/Squick.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/A/Squick.png
 A/Barebones.png  https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/A/Barebones.png

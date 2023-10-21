@@ -26,6 +26,10 @@
 <shuffle>yes</shuffle>
 </deckzone>
 
+<deckzone>
+<label>Side Deck</label>
+</deckzone>
+
 <gamezone>
 	<label>Hand</label>
 	<visibletoowner>yes</visibletoowner>
@@ -45,6 +49,11 @@
 <gamezone>
 	<label>FP Deck</label>
 	<visibletoowner>no</visibletoowner>
+</gamezone>
+
+<gamezone>
+	<label>Side Deck</label>
+	<visibletoowner>yes</visibletoowner>
 </gamezone>
 
 <generalfunction>

@@ -1,11 +1,11 @@
 Name	Set	ImageFile	Type	Attribute
-Squick	A	Squick.png	Vivosaur	Neutral
+Squik	A	Squick.png	Vivosaur	Neutral
 The Barebones Brigade!!!	A	Barebones.png	Attack	
 The BB Bandits!!!	A	Bandits.png	Attack	
 Dynal	A	Dynal.png	Support	
 Unexpected Encounter	A	UE.png	Attack	
-Hero [M]	A	HeroM.png	Support	
-Hero [F]	A	HeroF.png	Support	
+Dino	A	HeroM.png	Support	
+Dina	A	HeroF.png	Support	
 Dr. Diggins	A	Diggins.png	Support	
 Rosie	A	Rosie.png	Support	
 Nick nack	A	Nick.png	Support	

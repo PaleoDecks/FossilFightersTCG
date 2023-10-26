@@ -1,6 +1,6 @@
 <uninstall>
 
-<dateYYMMDD>231023</dateYYMMDD>
-<removepath>sets/setimages/a/</removepath>
+<dateYYMMDD>231026</dateYYMMDD>
+<removepath>sets/setimages/a/T-Rex.png</removepath>
 
 </uninstall>

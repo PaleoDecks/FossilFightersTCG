@@ -1,4 +1,4 @@
-FFTCG	10-26-23
+FFTCG	11-01-23
 plugins/FFTCG/plugininfo.txt	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/plugininfo.txt	173448
 plugins/FFTCG/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/general/cardback.jpg	-2610
 plugins/FFTCG/sets/carddata.txt	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/carddata	200070

@@ -66,3 +66,6 @@ Status/Enflame.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTC
 Status/Harden.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/Status/Harden.png
 Status/Quicken.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/Status/Quicken.png
 Status/Payback.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/Status/Payback.png
+Status/First.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/Status/First.png
+Status/Second.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/Status/Second.png
+Status/Third.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/Status/Third.png

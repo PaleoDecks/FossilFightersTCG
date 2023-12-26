@@ -1,9 +1,9 @@
-FFTCG	11-01-23
+FFTCG	12-26-23
 plugins/FFTCG/plugininfo.txt	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/plugininfo.txt	173448
 plugins/FFTCG/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/general/cardback.jpg	-2610
-plugins/FFTCG/sets/carddata.txt	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/carddata	200070
-plugins/FFTCG/version.txt	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/version.txt	32375
-plugins/FFTCG/uninstall.txt	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/uninstall.txt	9526
+plugins/FFTCG/sets/carddata.txt	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/carddata	203501
+plugins/FFTCG/version.txt	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/version.txt	32383
+plugins/FFTCG/uninstall.txt	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/uninstall.txt	8678
 CardImageURLs:
 A/Squick.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/A/Squick.png
 A/Barebones.png  https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/A/Barebones.png
@@ -68,5 +68,7 @@ Status/Harden.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG
 Status/Quicken.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/Status/Quicken.png
 Status/Payback.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/Status/Payback.png
 Status/First.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/Status/First.png
+Status/Second.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/Status/Second.png
+Status/Third.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/Status/Third.pngFightersTCG/main/sets/setimages/Status/First.png
 Status/Second.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/Status/Second.png
 Status/Third.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/Status/Third.png

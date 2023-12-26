@@ -38,6 +38,7 @@ A/Carchar.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/mai
 A/Acro.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/A/Acro.png
 A/Daspleto.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/A/Daspleto.png
 A/Venator.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/A/Venator.png
+A/Argento.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/A/Argento.png
 A/Megalo.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/A/Megalo.png
 A/Tro.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/A/Tro.png
 A/O-Raptor.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/A/O-Raptor.png

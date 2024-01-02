@@ -1,9 +1,9 @@
-FFTCG	12-27-23
+FFTCG	01-02-24
 plugins/FFTCG/plugininfo.txt	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/plugininfo.txt	173448
 plugins/FFTCG/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/general/cardback.jpg	-2610
-plugins/FFTCG/sets/carddata.txt	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/carddata	203391
-plugins/FFTCG/version.txt	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/version.txt	32384
-plugins/FFTCG/uninstall.txt	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/uninstall.txt	8647
+plugins/FFTCG/sets/carddata.txt	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/carddata	209796
+plugins/FFTCG/version.txt	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/version.txt	32376
+plugins/FFTCG/uninstall.txt	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/uninstall.txt	8639
 CardImageURLs:
 A/Squick.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/A/Squick.png
 A/Barebones.png  https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/A/Barebones.png
@@ -38,7 +38,6 @@ A/Carchar.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/mai
 A/Acro.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/A/Acro.png
 A/Daspleto.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/A/Daspleto.png
 A/Venator.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/A/Venator.png
-A/Argento.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/A/Argento.png
 A/Megalo.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/A/Megalo.png
 A/Tro.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/A/Tro.png
 A/O-Raptor.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/A/O-Raptor.png
@@ -72,3 +71,6 @@ Status/Second.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG
 Status/Third.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/Status/Third.pngFightersTCG/main/sets/setimages/Status/First.png
 Status/Second.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/Status/Second.png
 Status/Third.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/Status/Third.png
+B/Argento.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/B/Argento.png
+B/Alio.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/B/Alio.png
+B/V-Raptor.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/B/V-Raptor.png

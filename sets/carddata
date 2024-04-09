@@ -1,5 +1,4 @@
 Name	Set	ImageFile	Type	Attribute
-Squik	A	Squick.png	Vivosaur	Neutral
 The Barebones Brigade!!!	A	Barebones.png	Attack	
 The BB Bandits!!!	A	Bandits.png	Attack	
 Dynal	A	Dynal.png	Support	
@@ -47,8 +46,6 @@ Excavate	A	Excavate.png	Assist
 Smashing Success	A	Smashing.png	Assist	
 Miraculous Fossil	A	Miraculous.png	Assist	
 FP Charge	A	Charge.png	Charge	
-Dynal (Full Art)	A	DynalFull.png	Support	
-Smashing Success (Full Art)	A	SmashingFull.png	Assist	
 Don Boneyard	A	DonBoneyard.png	Attack	
 Sleep	Status	Sleep.png	Token Status	
 Excite	Status	Excite.png	Token Status	
@@ -60,9 +57,11 @@ Enflame	Status	Enflame.png	Token Status
 Harden	Status	Harden.png	Token Status	
 Quicken	Status	Quicken.png	Token Status	
 Payback	Status	Payback.png	Token Status	
-1 Marker	Status	First.png	Token Status
-2 Marker	Status	Second.png	Token Status
-3 Marker	Status	Third.png	Token Status
+10 Damage Marker	Status	10Damage.png	Token Status
+50 Damage Marker	Status	50Damage.png	Token Status
+100 Damage Marker	Status	100Damage.png	Token Status
+200 Damage Marker	Status	200Damage.png	Token Status
 Argento	B	Argento.png	Vivosaur	Earth																									
 V-Raptor	B	V-Raptor.png	Vivosaur	Air																									
 Alio	B	Alio.png	Vivosaur	Water																									
+Brachio	B	Brachio.png	Vivosaur	Neutral

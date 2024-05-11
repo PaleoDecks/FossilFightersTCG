@@ -1,6 +1,6 @@
 <version>
 
-<lastupdateYYMMDD>240511</lastupdateYYMMDD>
+<lastupdateYYMMDD>240513</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/updatelist.txt</updateurl>
 <message>I just updated the plugin to include cool stuff.</message>

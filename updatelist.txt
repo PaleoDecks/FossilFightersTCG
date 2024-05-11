@@ -2,7 +2,7 @@ FFTCG	05-11-24
 plugins/FFTCG/plugininfo.txt	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/plugininfo.txt	223484
 plugins/FFTCG/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_General_and_Tokens/General_Cardback_Lackey.jpg	-2610
 plugins/FFTCG/sets/carddata.txt	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/carddata	237393
-plugins/FFTCG/version.txt	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/version.txt	32380
+plugins/FFTCG/version.txt	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/version.txt	32379
 plugins/FFTCG/uninstall.txt	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/uninstall.txt	17273
 CardImageURLs:
 A/A00_Dynal.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_A/A00_Dynal.png

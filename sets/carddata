@@ -1,67 +1,65 @@
-Name	Set	ImageFile	Type	Attribute
-The Barebones Brigade!!!	A	Barebones.png	Attack	
-The BB Bandits!!!	A	Bandits.png	Attack	
-Dynal	A	Dynal.png	Support	
-Unexpected Encounter	A	UE.png	Attack	
-Dino	A	HeroM.png	Support	
-Dina	A	HeroF.png	Support	
-Dr. Diggins	A	Diggins.png	Support	
-Rosie	A	Rosie.png	Support	
-Nick nack	A	Nick.png	Support	
-Pauleen	A	Pauleen.png	Support	
-Todd	A	Todd.png	Support	
-Rupert	A	Rupert.png	Support	
-Joe WIldwest	A	Joe.png	Support	
-KL-33N	A	KL33N.png	Assist	
-Fossil Stadium	A	Stadium.png	Arena	
-Digadigamid	A	Digadigamid.png	Arena	
-Treasure Lake	A	TreasureLake.png	Arena	
-Spinax	A	Spinax.png	Vivosaur	Air
-Shanshan	A	Shanshan.png	Vivosaur	Air
-Metria	A	Metria.png	Vivosaur	Air
-M-Raptor	A	M-Raptor.png	Vivosaur	Air
-Tarbo	A	Tarbo.png	Vivosaur	Air
-Shoni	A	Shoni.png	Vivosaur	Water
-Krona	A	Krona.png	Vivosaur	Water
-Elasmo	A	Elasmo.png	Vivosaur	Water
-Futabi	A	Futabi.png	Vivosaur	Water
-Plesio	A	Plesio.png	Vivosaur	Water
-Carno	A	Carno.png	Vivosaur	Earth
-Carchar	A	Carchar.png	Vivosaur	Earth
-Acro	A	Acro.png	Vivosaur	Earth
-Daspleto	A	Daspleto.png	Vivosaur	Earth
-Venator	A	Venator.png	Vivosaur	Earth
-Megalo	A	Megalo.png	Vivosaur	Neutral
-Tro	A	Tro.png	Vivosaur	Neutral
-O-Raptor	A	O-Raptor.png	Vivosaur	Neutral
-Neo	A	Neo.png	Vivosaur	Neutral
-Allo	A	Allo.png	Vivosaur	Neutral
-T-Rex	A	T-Rex.png	Vivosaur	Fire
-Giganto	A	Giganto.png	Vivosaur	Fire
-S-Raptor	A	S-Raptor.png	Vivosaur	Fire
-U-Raptor	A	U-Raptor.png	Vivosaur	Fire
-Nychus	A	Nychus.png	Vivosaur	Fire
-T-Rex Lord	A	RexLord.png	Vivosaur	Fire
-Excavate	A	Excavate.png	Assist	
-Smashing Success	A	Smashing.png	Assist	
-Miraculous Fossil	A	Miraculous.png	Assist	
-FP Charge	A	Charge.png	Charge	
-Don Boneyard	A	DonBoneyard.png	Attack	
-Sleep	Status	Sleep.png	Token Status	
-Excite	Status	Excite.png	Token Status	
-Poison	Status	Poison.png	Token Status	
-Enrage	Status	Enrage.png	Token Status	
-Confuse	Status	Confuse.png	Token Status	
-Scare	Status	Scare.png	Token Status	
-Enflame	Status	Enflame.png	Token Status	
-Harden	Status	Harden.png	Token Status	
-Quicken	Status	Quicken.png	Token Status	
-Payback	Status	Payback.png	Token Status	
-10 Damage Marker	Status	10Damage.png	Token Status
-50 Damage Marker	Status	50Damage.png	Token Status
-100 Damage Marker	Status	100Damage.png	Token Status
-200 Damage Marker	Status	200Damage.png	Token Status
-Argento	B	Argento.png	Vivosaur	Earth																									
-V-Raptor	B	V-Raptor.png	Vivosaur	Air																									
-Alio	B	Alio.png	Vivosaur	Water																									
-Brachio	B	Brachio.png	Vivosaur	Neutral
+Name	Set	ImageFile	Type	Attribute	Number
+Dynal	A	A00_Dynal.png	Action	Support	A00
+T-Rex	A	A01_T-Rex.png	Vivosaur	Fire	A01
+S-Raptot	A	A02_S-Raptor.png	Vivosaur	Fire	A02
+Giganto	A	A03_Giganto.png	Vivosaur	Fire	A03
+Nychus	A	A04_Nychus.png	Vivosaur	Fire	A04
+U-Raptor	A	A05_U-Raptor.png	Vivosaur	Fire	A05
+Breme	A	A06_Breme.png	Vivosaur	Fire	A06
+Daspleto	A	A07_Daspleto.png	Vivosaur	Earth	A07
+Venator	A	A08_Venator.png	Vivosaur	Earth	A08
+Carchar	A	A09_Carchar.png	Vivosaur	Earth	A09
+Acro	A	A10_Acro.png	Vivosaur	Earth	A10
+Carno	A	A11_Carno.png	Vivosaur	Earth	A11
+Argento	A	A12_Argento.png	Vivosaur	Earth	A12
+Tarbo	A	A13_Tarbo.png	Vivosaur	Air	A13
+Shanshan	A	A14_Shanshan.png	Vivosaur	Air	A14
+Metria	A	A15_Metria.png	Vivosaur	Air	A15
+Spinax	A	A16_Spinax.png	Vivosaur	Air	A16
+M-Raptor	A	A17_M-Raptor.png	Vivosaur	Air	A17
+V-Raptor	A	A18_V-Raptor.png	Vivosaur	Air	A18
+Alio	A	A19_Alio.png	Vivosaur	Water	A19
+Krona	A	A20_Krona.png	Vivosaur	Water	A20
+Futabi	A	A21_Futabi.png	Vivosaur	Water	A21
+ELasmo	A	A22_Elasmo.png	Vivosaur	Water	A22
+Pleasio	A	A23_Plesio.png	Vivosaur	Water	A23
+Shoni	A	A24_Shoni.png	Vivosaur	Water	A24
+Allo	A	A25_Allo.png	Vivosaur	Neutral	A25
+Megalo	A	A26_Megalo.png	Vivosaur	Neutral	A26
+Neo	A	A27_Neo.png	Vivosaur	Neutral	A27
+Tro	A	A28_Tro.png	Vivosaur	Neutral	A28
+O-Raptor	A	A29_O-Raptor.png	Vivosaur	Neutral	A29
+Brachio	A	A30_Brachio.png	Vivosaur	Neutral	A30
+Dino	A	A31_Dino.png	Action	Support	A31
+Dina	A	A32_Dina.png	Action	Support	A32
+Todd	A	A33_Todd.png	Action	Support	A33
+Joe WIldwest	A	A34_Joe_Wildwest.png	Action	Support	A34
+Pauleen	A	A35_Pauleen.png	Action	Support	A35
+Rupert	A	A36_Rupert.png	Action	Support	A36
+Nick Nack	A	A37_Nick_Nack.png	Action	Support	A37
+Dr. Diggins	A	A38_Dr_Diggins.png	Action	Support	A38
+Rosie	A	A39_Rosie.png	Action	Support	A39
+VMM	A	A40_VMM.png	Action	Support	A40
+Excavate	A	A41_Excavate.png	Action	Assist	A41
+KL-33N	A	A42_KL-33N.png	Action	Assist	A42
+Smashing Success	A	A43_Smashing_Success.png	Action	Assist	A43
+Unexpected Encounter	A	A44_Unexpected_Encounter.png	Action	Attack	A44
+The BB Bandits	A	A45_The_BB_Bandits.png	Action	Attack	A45
+The BareBones Brigade	A	A46_The_BareBones_Brigade.png	Action	Attack	A46
+Don Boneyard	A	A47_Don_Boneyard.png	Action	Attack	A47
+Fossil Stadium	A	A48_Fossil_Stadium.png	Action	Arena	A48
+Treasure Lake	A	A49_Treasure_Lake.png	Action	Arena	A49
+Digadigamid	A	A50_Digadigamid.png	Action	Arena	A50
+Sleep	Status	Sleep.png	Token Status		
+Excite	Status	Excite.png	Token Status		
+Poison	Status	Poison.png	Token Status		
+Enrage	Status	Enrage.png	Token Status		
+Confuse	Status	Confuse.png	Token Status		
+Scare	Status	Scare.png	Token Status		
+Enflame	Status	Enflame.png	Token Status		
+Harden	Status	Harden.png	Token Status		
+Quicken	Status	Quicken.png	Token Status		
+1 Marker	Status	First.png	Token Status		
+2 Marker	Status	Second.png	Token Status		
+3 Marker	Status	Third.png	Token Status		
+FP Charge	A	Charge.png	Charge		

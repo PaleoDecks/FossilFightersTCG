@@ -80,6 +80,24 @@
             <includeasbutton>yes</includeasbutton>
 </generalfunction>
 
+<generalfunction>
+	<label>Recharge</label>
+		<kind>TRANSFERCARD</kind>
+	<sourcegamezone>FP Deck</sourcegamezone>
+	<destinationowner>table</destinationowner>
+	<destinationposition>faceup</destinationposition>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+
+<generalfunction>
+	<label>Deck Recharge</label>
+		<kind>TRANSFERCARD</kind>
+	<sourcegamezone>Deck</sourcegamezone>
+	<destinationowner>table</destinationowner>
+	<destinationposition>facedown</destinationposition>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+
 <cardfunction>
 	<label>Rest</label>
 	<kind>MAKERIGHT90DEGREES</kind>

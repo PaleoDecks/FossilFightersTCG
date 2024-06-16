@@ -1,6 +1,6 @@
 <uninstall>
 
-<dateYYMMDD>240511</dateYYMMDD>
+<dateYYMMDD>240616</dateYYMMDD>
 <removepath>sets/setimages/A</removepath>
 <removepath>sets/setimages/B</removepath>
 <removepath>sets/setimages/Status</removepath>

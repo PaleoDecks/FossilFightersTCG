@@ -1,4 +1,4 @@
-FFTCG	06-16-24
+FFTCG	06-17-24
 plugins/FFTCG/plugininfo.txt	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/plugininfo.txt	223484
 plugins/FFTCG/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_General_and_Tokens/General_Cardback_Lackey.jpg	-12916
 plugins/FFTCG/sets/carddata.txt	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/carddata	270352

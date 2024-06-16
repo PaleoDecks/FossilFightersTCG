@@ -1,65 +1,70 @@
-Name	Set	ImageFile	Type	Attribute	Number
-Dynal	A	A00_Dynal.png	Action	Support	A00
-T-Rex	A	A01_T-Rex.png	Vivosaur	Fire	A01
-S-Raptot	A	A02_S-Raptor.png	Vivosaur	Fire	A02
-Giganto	A	A03_Giganto.png	Vivosaur	Fire	A03
-Nychus	A	A04_Nychus.png	Vivosaur	Fire	A04
-U-Raptor	A	A05_U-Raptor.png	Vivosaur	Fire	A05
-Breme	A	A06_Breme.png	Vivosaur	Fire	A06
-Daspleto	A	A07_Daspleto.png	Vivosaur	Earth	A07
-Venator	A	A08_Venator.png	Vivosaur	Earth	A08
-Carchar	A	A09_Carchar.png	Vivosaur	Earth	A09
-Acro	A	A10_Acro.png	Vivosaur	Earth	A10
-Carno	A	A11_Carno.png	Vivosaur	Earth	A11
-Argento	A	A12_Argento.png	Vivosaur	Earth	A12
-Tarbo	A	A13_Tarbo.png	Vivosaur	Air	A13
-Shanshan	A	A14_Shanshan.png	Vivosaur	Air	A14
-Metria	A	A15_Metria.png	Vivosaur	Air	A15
-Spinax	A	A16_Spinax.png	Vivosaur	Air	A16
-M-Raptor	A	A17_M-Raptor.png	Vivosaur	Air	A17
-V-Raptor	A	A18_V-Raptor.png	Vivosaur	Air	A18
-Alio	A	A19_Alio.png	Vivosaur	Water	A19
-Krona	A	A20_Krona.png	Vivosaur	Water	A20
-Futabi	A	A21_Futabi.png	Vivosaur	Water	A21
-ELasmo	A	A22_Elasmo.png	Vivosaur	Water	A22
-Pleasio	A	A23_Plesio.png	Vivosaur	Water	A23
-Shoni	A	A24_Shoni.png	Vivosaur	Water	A24
-Allo	A	A25_Allo.png	Vivosaur	Neutral	A25
-Megalo	A	A26_Megalo.png	Vivosaur	Neutral	A26
-Neo	A	A27_Neo.png	Vivosaur	Neutral	A27
-Tro	A	A28_Tro.png	Vivosaur	Neutral	A28
-O-Raptor	A	A29_O-Raptor.png	Vivosaur	Neutral	A29
-Brachio	A	A30_Brachio.png	Vivosaur	Neutral	A30
-Dino	A	A31_Dino.png	Action	Support	A31
-Dina	A	A32_Dina.png	Action	Support	A32
-Todd	A	A33_Todd.png	Action	Support	A33
-Joe WIldwest	A	A34_Joe_Wildwest.png	Action	Support	A34
-Pauleen	A	A35_Pauleen.png	Action	Support	A35
-Rupert	A	A36_Rupert.png	Action	Support	A36
-Nick Nack	A	A37_Nick_Nack.png	Action	Support	A37
-Dr. Diggins	A	A38_Dr_Diggins.png	Action	Support	A38
-Rosie	A	A39_Rosie.png	Action	Support	A39
-VMM	A	A40_VMM.png	Action	Support	A40
-Excavate	A	A41_Excavate.png	Action	Assist	A41
-KL-33N	A	A42_KL-33N.png	Action	Assist	A42
-Smashing Success	A	A43_Smashing_Success.png	Action	Assist	A43
-Unexpected Encounter	A	A44_Unexpected_Encounter.png	Action	Attack	A44
-The BB Bandits	A	A45_The_BB_Bandits.png	Action	Attack	A45
-The BareBones Brigade	A	A46_The_BareBones_Brigade.png	Action	Attack	A46
-Don Boneyard	A	A47_Don_Boneyard.png	Action	Attack	A47
-Fossil Stadium	A	A48_Fossil_Stadium.png	Action	Arena	A48
-Treasure Lake	A	A49_Treasure_Lake.png	Action	Arena	A49
-Digadigamid	A	A50_Digadigamid.png	Action	Arena	A50
-Sleep	Status	Sleep.png	Token Status		
-Excite	Status	Excite.png	Token Status		
-Poison	Status	Poison.png	Token Status		
-Enrage	Status	Enrage.png	Token Status		
-Confuse	Status	Confuse.png	Token Status		
-Scare	Status	Scare.png	Token Status		
-Enflame	Status	Enflame.png	Token Status		
-Harden	Status	Harden.png	Token Status		
-Quicken	Status	Quicken.png	Token Status		
-1 Marker	Status	First.png	Token Status		
-2 Marker	Status	Second.png	Token Status		
-3 Marker	Status	Third.png	Token Status		
-FP Charge	A	Charge.png	Charge		
+Name	Set	ImageFile	Type	Attribute	Rarity	Number
+Dynal	A	A00_Dynal.png	Action	Support	UR	A00
+T-Rex	A	A01_T-Rex.png	Vivosaur	Fire	UR	A01
+S-Raptor	A	A02_S-Raptor.png	Vivosaur	Fire	C	A02
+Giganto	A	A03_Giganto.png	Vivosaur	Fire	R	A03
+Nychus	A	A04_Nychus.png	Vivosaur	Fire	SR	A04
+U-Raptor	A	A05_U-Raptor.png	Vivosaur	Fire	R	A05
+Breme	A	A06_Breme.png	Vivosaur	Fire	C	A06
+Daspleto	A	A07_Daspleto.png	Vivosaur	Earth	R	A07
+Venator	A	A08_Venator.png	Vivosaur	Earth	C	A08
+Carchar	A	A09_Carchar.png	Vivosaur	Earth	UR	A09
+Acro	A	A10_Acro.png	Vivosaur	Earth	R	A10
+Carno	A	A11_Carno.png	Vivosaur	Earth	C	A11
+Argento	A	A12_Argento.png	Vivosaur	Earth	SR	A12
+Tarbo	A	A13_Tarbo.png	Vivosaur	Air	UR	A13
+Shanshan	A	A14_Shanshan.png	Vivosaur	Air	C	A14
+Metria	A	A15_Metria.png	Vivosaur	Air	C	A15
+Spinax	A	A16_Spinax.png	Vivosaur	Air	SR	A16
+M-Raptor	A	A17_M-Raptor.png	Vivosaur	Air	R	A17
+V-Raptor	A	A18_V-Raptor.png	Vivosaur	Air	R	A18
+Alio	A	A19_Alio.png	Vivosaur	Water	SR	A19
+Krona	A	A20_Krona.png	Vivosaur	Water	UR	A20
+Futabi	A	A21_Futabi.png	Vivosaur	Water	R	A21
+Elasmo	A	A22_Elasmo.png	Vivosaur	Water	C	A22
+Plesio	A	A23_Plesio.png	Vivosaur	Water	C	A23
+Shoni	A	A24_Shoni.png	Vivosaur	Water	R	A24
+Allo	A	A25_Allo.png	Vivosaur	Neutral	SR	A25
+Megalo	A	A26_Megalo.png	Vivosaur	Neutral	R	A26
+Neo	A	A27_Neo.png	Vivosaur	Neutral	C	A27
+Tro	A	A28_Tro.png	Vivosaur	Neutral	C	A28
+O-Raptor	A	A29_O-Raptor.png	Vivosaur	Neutral	UR	A29
+Brachio	A	A30_Brachio.png	Vivosaur	Neutral	R	A30
+Dino	A	A31_Dino.png	Action	Support	SR	A31
+Dina	A	A32_Dina.png	Action	Support	SR	A32
+Todd	A	A33_Todd.png	Action	Support	C	A33
+Joe WIldwest	A	A34_Joe_Wildwest.png	Action	Support	C	A34
+Pauleen	A	A35_Pauleen.png	Action	Support	C	A35
+Rupert	A	A36_Rupert.png	Action	Support	C	A36
+Nick Nack	A	A37_Nick_Nack.png	Action	Support	C	A37
+Dr. Diggins	A	A38_Dr_Diggins.png	Action	Support	C	A38
+Rosie	A	A39_Rosie.png	Action	Support	R	A39
+VMM	A	A40_VMM.png	Action	Support	R	A40
+Excavate	A	A41_Excavate.png	Action	Assist	C	A41
+KL-33N	A	A42_KL-33N.png	Action	Assist	R	A42
+Smashing Success	A	A43_Smashing_Success.png	Action	Assist	UR	A43
+Unexpected Encounter	A	A44_Unexpected_Encounter.png	Action	Attack	SR	A44
+The BB Bandits	A	A45_The_BB_Bandits.png	Action	Attack	SR	A45
+The BareBones Brigade	A	A46_The_BareBones_Brigade.png	Action	Attack	SR	A46
+Don Boneyard	A	A47_Don_Boneyard.png	Action	Attack	UR	A47
+Fossil Stadium	A	A48_Fossil_Stadium.png	Action	Arena	R	A48
+Treasure Lake	A	A49_Treasure_Lake.png	Action	Arena	C	A49
+Digadigamid	A	A50_Digadigamid.png	Action	Arena	R	A50
+Sleep	Status	Sleep.png	Token Status			
+Excite	Status	Excite.png	Token Status			
+Poison	Status	Poison.png	Token Status			
+Enrage	Status	Enrage.png	Token Status			
+Confuse	Status	Confuse.png	Token Status			
+Scare	Status	Scare.png	Token Status			
+Enflame	Status	Enflame.png	Token Status			
+Harden	Status	Harden.png	Token Status			
+Quicken	Status	Quicken.png	Token Status			
+1 Marker	Status	First.png	Token Status			
+2 Marker	Status	Second.png	Token Status			
+3 Marker	Status	Third.png	Token Status			
+FP Charge	A	Charge.png	Charge			
+Stygi	Starter	DECK01_Stygi.png	Vivosaur	Fire	Starter	Deck01
+Pachy	Starter	DECK02_Pachy.png	Vivosaur	Earth	Starter	Deck02
+Goyo	Starter	DECK03_Goyo.png	Vivosaur	Air	Starter	Deck03
+Bea Ginner	Starter	DECK04_Bea_Ginner.png	Action	Support	Starter	Deck04
+Radar	Starter	DECK05_Radar.png	Action	Assist	Starter	Deck05

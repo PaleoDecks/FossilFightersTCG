@@ -113,6 +113,23 @@
 <kind>TURNOVER</kind>
 </cardfunction>
 
+<cardfunction>
+<label>Set LP</label>
+<kind>EDITNOTE</kind>
+</cardfunction>
+
+<cardfunction>
+<label>Add Counter</label>
+<kind>ADDCOUNTER</kind>
+<PositionX>1</PositionX>
+<PositionY>1(/PositionY>
+</cardfunction>
+
+<cardfunction>
+<label>Clear</label>
+<kind>CLEARCARD</kind>
+</cardfunction>
+
 <definition>
 <kind>ISYOURFACEDOWNVISIBLE<kind>
 </definition>

@@ -19,4 +19,23 @@
 	</chance>
 </pack>
 
+<pack>
+	<packtitle>B Set Booster</packtitle>
+	<packimage>DKCG</packimage>
+	<packformat>Booster</packformat>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>B</data></packcommoncrit>
+	<chance>
+		<prob>85</prob>
+			<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>SR</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>15</prob>
+			<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>UR</data></crit></kind>
+	</chance>
+</pack>
+
 </packdefinitions>

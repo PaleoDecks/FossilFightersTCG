@@ -43,9 +43,9 @@ VMM	A	A40_VMM.png	Action	Support	A40
 Excavate	A	A41_Excavate.png	Action	Assist	A41
 KL-33N	A	A42_KL-33N.png	Action	Assist	A42
 Smashing Success	A	A43_Smashing_Success.png	Action	Assist	A43
-Unexpected Encounter	A	A44_Unexpected_Encounter.png	Action	Attack	A44
-The BB Bandits	A	A45_The_BB_Bandits!!!.png	Action	Attack	A45
-The BareBones Brigade	A	A46_The_BareBones_Brigade.png	Action	Attack	A46
+Unexpected Encounter...	A	A44_Unexpected_Encounter.png	Action	Attack	A44
+The BB Bandits!!!	A	A45_The_BB_Bandits!!!.png	Action	Attack	A45
+The BareBones Brigade!!!	A	A46_The_BareBones_Brigade.png	Action	Attack	A46
 Don Boneyard	A	A47_Don_Boneyard.png	Action	Attack	A47
 Fossil Stadium	A	A48_Fossil_Stadium.png	Action	Arena	A48
 Treasure Lake	A	A49_Treasure_Lake.png	Action	Arena	A49
@@ -63,7 +63,7 @@ Enflame	Status	T_Enflame.png	Token Status
 1 Marker	Status	First.png	Token Status		
 2 Marker	Status	Second.png	Token Status		
 3 Marker	Status	Third.png	Token Status		
-FP Charge	A	Charge.png	Charge		
+FP Charge	Charge	Charge.png	Charge		
 Stygi	Starter	DECK01_Stygi.png	Vivosaur	Fire	Deck01
 Pachy	Starter	DECK02_Pachy.png	Vivosaur	Earth	Deck02
 Goyo	Starter	DECK03_Goyo.png	Vivosaur	Air	Deck03
@@ -85,12 +85,12 @@ Sopteryx	B	B13_Sopteryx.png	Vivosaur	Fire	B13
 Dinomaton	B	B14_Dinomation.png	Vivosaur	Neutral	B14
 Guera	B	B15_Guera.png	Vivosaur	Neutral	B15
 Jara	B	B16_Jara.png	Vivosaur	Neutral	B16
-Saurhead	B	B17_Saurhead,_The_Champion!.png	Action	Support	B17
+Saurhead, The Champion!	B	B17_Saurhead,_The_Champion!.png	Action	Support	B17
 Dazed	B	B18_Dazed.png	Action	Support	B18
 Nevada Montecarlo	B	B19_Nevada_Montecarlo.png	Action	Support	B19
 Dino Dummy	B	B20_Dino_Dummy.png	Action	Assist	B20
 The Journey Begins	B	B21_The_Journey_Begins.png	Action	Support	B21
-Vmm - Town	B	B22_VMM_-_Town.png	Action	Support	B22
+VMM - Town	B	B22_VMM_-_Town.png	Action	Support	B22
 Beth	B	B23_Beth.png	Action	Support	B23
 Captain Bullwort	B	B24_Captain_Bullwort.png	Action	Support	B24
 Greenhorn Plains	B	B25_Greenhorn_Plains.png	Action	Arena	B25
@@ -102,10 +102,10 @@ Sunken Shipwreck	B	B30_Sunken_ShipWreck.png	Action	Arena	B30
 Rivet Ravine	B	B31_Rivet_Ravine.png	Action	Arena	B31
 Secret Island	B	B32_Secret_Island.png	Action	Arena	B32
 Medal Stealer Joe	B	B33_Medal_Stealer_Joe.png	Action	Attack	B33
-BB Bandit's Surprise	B	B34_BB_Bandit's_Suprise.png	Action	Attack	B34
+BB Bandit's Surprise!	B	B34_BB_Bandit's_Suprise.png	Action	Attack	B34
 Blambeau	B	B35_Blambeau.png	Action	Attack	B35
 Blocked Off	B	B36_Blocked_Off.png	Action	Attack	B36
-BB Bandit's Trap	B	B37_BB_Bandit's_Trap.png	Action	Attack	B37
+BB Bandit's Trap!	B	B37_BB_Bandit's_Trap.png	Action	Attack	B37
 Tempest Barrage	B	B38_Tempest_Barrage.png	Action	Team	B38
 Titanic Shift	B	B39_Titantic_Shift.png	Action	Team	B39
 Tyrant's Burst	B	B40_Tyrant's_Burst.png	Action	Team	B40
@@ -133,7 +133,7 @@ Styraco	C	C20_Styraco.png	Vivosaur	Air	C20
 Igua	C	C21_Igua.png	Vivosaur	Air	C21
 Radox	C	C22_Radox.png	Vivosaur	Air	C22
 S-Raptor - Gale	C	C23_S-Raptor-Gale.png	Vivosaur	Air	C23
-Areros	C	C24_Aeros.png	Vivosaur	Air	C24
+Aeros	C	C24_Aeros.png	Vivosaur	Air	C24
 Teffla	C	C25_Teffla.png	Vivosaur	Air	C25
 Penta	C	C26_Penta.png	Vivosaur	Neutral	C26
 Plesio - Zero	C	C27_Plesio-Zero.png	Vivosaur	Neutral	C27
@@ -144,7 +144,7 @@ VMM - Illium	C	C31_VMM-Ilium.png	Action	Support	C31
 KL-34N	C	C32_KL-34N.png	Action	Support	C32
 Vivosaur Town	C	C33_Vivosaur_Town.png	Action	Arena	C33
 Idol Comp Master Room	C	C34_Idol_Comp_Master_Room.png	Action	Arena	C34
-Digadiga Village	C	C35_Digadiga_Village.png	Action	Attack	C35
+DigaDiga Village	C	C35_Digadiga_Village.png	Action	Attack	C35
 Tri-Torpedo	C	C36_Tri-Torpedo.png	Action	Team	C36
 Duna	C	C37_Duna.png	Action	Attack	C37
 Raptin	C	C38_Raptin.png	Action	Attack	C38

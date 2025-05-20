@@ -63,7 +63,7 @@ Enflame	Status	T_Enflame.png	Token Status
 1 Marker	Status	First.png	Token Status		
 2 Marker	Status	Second.png	Token Status		
 3 Marker	Status	Third.png	Token Status		
-FP Charge	Charge	Charge.png	Charge		
+FP Charge	A	Charge.png	Charge		
 Stygi	Starter	DECK01_Stygi.png	Vivosaur	Fire	Deck01
 Pachy	Starter	DECK02_Pachy.png	Vivosaur	Earth	Deck02
 Goyo	Starter	DECK03_Goyo.png	Vivosaur	Air	Deck03

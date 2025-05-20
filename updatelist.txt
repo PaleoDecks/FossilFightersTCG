@@ -1,10 +1,9 @@
-FFTCG	01-30-25
+FFTCG	05-19-25
 plugins/FFTCG/plugininfo.txt	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/plugininfo.txt	247811
 plugins/FFTCG/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_General_and_Tokens/General_Cardback_Lackey.jpg	-12916
-plugins/FFTCG/sets/carddata.txt	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/carddata	435312
-plugins/FFTCG/version.txt	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/version.txt	32378
-plugins/FFTCG/uninstall.txt	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/uninstall.txt	17271
-plugins/FFTCG/packs/packdefinitions1.xml	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/packs/packdefinitions1.xml	144032
+plugins/FFTCG/sets/carddata.txt	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/carddata	590286
+plugins/FFTCG/version.txt	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/version.txt	32389
+plugins/FFTCG/uninstall.txt	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/uninstall.txt	17282
 CardImageURLs:
 A/A00_Dynal.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_A/A00_Dynal.png
 A/A01_T-Rex.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_A/A01_T-Rex.png
@@ -58,16 +57,16 @@ A/A48_Fossil_Stadium.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-imag
 A/A49_Treasure_Lake.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_A/A49_Treasure_Lake.png
 A/A50_Digadigamid.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_A/A50_Digadigamid.png
 A/Charge.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/A/Charge.png
-Status/Sleep.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/Status/Sleep.png
-Status/Excite.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/Status/Excite.png
-Status/Poison.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/Status/Poison.png
-Status/Enrage.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/Status/Enrage.png
-Status/Confuse.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/Status/Confuse.png
-Status/Scare.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/Status/Scare.png
-Status/Enflame.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/Status/Enflame.png
-Status/Harden.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/Status/Harden.png
-Status/Quicken.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/Status/Quicken.png
-Status/Payback.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/Status/Payback.png
+Status/T_Sleep.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/Status/T_Sleep.png
+Status/T_Excite.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/Status/T_Excite.png
+Status/T_Poison.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/Status/T_Poison.png
+Status/T_Enrage.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/Status/T_Enrage.png
+Status/T_Confuse.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/Status/T_Confuse.png
+Status/T_Scare.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/Status/T_Scare.png
+Status/T_Enflame.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/Status/T_Enflame.png
+Status/T_Harden.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/Status/T_Harden.png
+Status/T_Quicken.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/Status/T_Quicken.png
+Status/T_Counter.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/Status/T_Counter.png
 Status/First.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/Status/First.png
 Status/Second.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/Status/Second.png
 Status/Third.png	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/setimages/Status/Third.png
@@ -75,35 +74,36 @@ Starter/DECK01_Stygi.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-imag
 Starter/DECK02_Pachy.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_STARTER/DECK02_Pachy.png
 Starter/DECK03_Goyo.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_STARTER/DECK03_Goyo.png
 Starter/DECK04_Bea_Ginner.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_STARTER/DECK04_Bea_Ginner.png
-Starter/DECK05_Radar.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_STARTER/DECK05_Radar.png
+B/B00_Mystery_Girl.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B00_Mystery_Girl.png
 B/B01_Ptera.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B01_Ptera.png
 B/B02_Coatlus.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B02_Coatlus.png
-B/B03_Dimorph.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B03_Dimorph.png
-B/B04_Dinomation.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B04_Dinomation.png
-B/B05_Cryo.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B05_Cryo.png
-B/B06_Pachirino.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B06_Pachirino.png
-B/B07_Dunkle.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B07_Dunkle.png
-B/B08_Coelo.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B08_Coelo.png
-B/B09_Onyx.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B09_Onyx.png
-B/B10-Stygi_Aqua.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B10-Stygi_Aqua.png
-B/B11_Dino_Dummy.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B11_Dino_Dummy.png
-B/B12_Whirlwind.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B12_Whirlwind.png
-B/B13_Slumber.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B13_Slumber.png
-B/B14_Epidex.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B14_Epidex.png
-B/B16_Dazed.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B16_Dazed.png
-B/B17_Guera.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B17_Guera.png
-B/B18_Jara.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B18_Jara.png
+B/B03_Coelo.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B03_Coelo.png
+B/B04_Epidex.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B04_Epidex.png
+B/B05_Pachirino.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B05_Pachirino.png
+B/B06_Dunkle.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B06_Dunkle.png
+B/B07_Ourano.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B07_Ourano.png
+B/B08_Seismo.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B08_Seismo.png
+B/B09_Cryo.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B09_Cryo.png
+B/B10_Onyx.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B10_Onyx.png
+B/B11-Stygi_Aqua.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B11-Stygi_Aqua.png
+B/B12_Dimorph.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B12_Dimorph.png
+B/B13_Sopteryx.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B13_Sopteryx.png
+B/B14_Dinomation.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B14_Dinomation.png
+B/B15_Guera.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B15_Guera.png
+B/B16_Jara.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B16_Jara.png
+B/B17_Saurhead,_The_Champion!.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B17_Saurhead,_The_Champion!.png
+B/B18_Dazed.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B18_Dazed.png
 B/B19_Nevada_Montecarlo.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B19_Nevada_Montecarlo.png
-B/B20_Ourano.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B20_Ourano.png
+B/B20_Dino_Dummy.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B20_Dino_Dummy.png
 B/B21_The_Journey_Begins.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B21_The_Journey_Begins.png
-B/B22_VMM_Town.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B22_VMM_Town.png
+B/B22_VMM_-_Town.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B22_VMM_-_Town.png
 B/B23_Beth.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B23_Beth.png
 B/B24_Captain_Bullwort.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B24_Captain_Bullwort.png
 B/B25_Greenhorn_Plains.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B25_Greenhorn_Plains.png
 B/B26_Town_Guild.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B26_Town_Guild.png
 B/B27_Time_Machine.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B27_Time_Machine.png
-B/B28_Sopteryx.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B28_Sopteryx.png
-B/B29_Siesmo.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B29_Siesmo.png
+B/B28_Whirlwind.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B28_Whirlwind.png
+B/B29_Slumber.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B29_Slumber.png
 B/B30_Sunken_ShipWreck.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B30_Sunken_ShipWreck.png
 B/B31_Rivet_Ravine.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B31_Rivet_Ravine.png
 B/B32_Secret_Island.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B32_Secret_Island.png
@@ -115,3 +115,45 @@ B/B37_BB_Bandit's_Trap.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-im
 B/B38_Tempest_Barrage.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B38_Tempest_Barrage.png
 B/B39_Titantic_Shift.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B39_Titantic_Shift.png
 B/B40_Tyrant's_Burst.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_B/B40_Tyrant's_Burst.png
+
+C/C00_The_Mothership.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_C/C00_The_Mothership.png
+C/C01_Tricera.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_C/C01_Tricera.png
+C/C02_Proto.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_C/C02_Proto.png
+C/C03_Dilopho.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_C/C03_Dilopho.png
+C/C04_Thalasso.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_C/C04_Thalasso.png
+C/C05_Toba.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_C/C05_Toba.png
+C/C06_Equians.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_C/C06_Equians.png
+C/C07_Tro-Aqua.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_C/C07_Tro-Aqua.png
+C/C08_Centro.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_C/C08_Centro.png
+C/C09_Salto.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_C/C09_Salto.png
+C/C10_Tsintao.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_C/C10_Tsintao.png
+C/C11_Bulgon.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_C/C11_Bulgon.png
+C/C12_Ptera-Geo.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_C/C12_Ptera-Geo.png
+C/C13_Einio.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_C/C13_Einio.png
+C/C14_Lambeo.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_C/C14_Lambeo.png
+C/C15_Gorgo.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_C/C15_Gorgo.png
+C/C16_Andrarch.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_C/C16_Andrarch.png
+C/C17_Acro-Magma.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_C/C17_Acro-Magma.png
+C/C18_Dimetro.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_C/C18_Dimetro.png
+C/C19_Lugmos.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_C/C19_Lugmos.png
+C/C20_Styraco.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_C/C20_Styraco.png
+C/C21_Igua.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_C/C21_Igua.png
+C/C22_Radox.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_C/C22_Radox.png
+C/C23_S-Raptor-Gale.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_C/C23_S-Raptor-Gale.png
+C/C24_Aeros.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_C/C24_Aeros.png
+C/C25_Teffla.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_C/C25_Teffla.png
+C/C26_Penta.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_C/C26_Penta.png
+C/C27_Plesio-Zero.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_C/C27_Plesio-Zero.png
+C/C28_Tophis.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_C/C28_Tophis.png
+C/C29_Miraculous_Fossil.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_C/C29_Miraculous_Fossil.png
+C/C30_Deathly_Breathe.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_C/C30_Deathly_Breathe.png
+C/C31_VMM-Ilium.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_C/C31_VMM-Ilium.png
+C/C32_KL-34N.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_C/C32_KL-34N.png
+C/C33_Vivosaur_Town.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_C/C33_Vivosaur_Town.png
+C/C34_Idol_Comp_Master_Room.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_C/C34_Idol_Comp_Master_Room.png
+C/C35_Digadiga_Village.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_C/C35_Digadiga_Village.png
+C/C36_Tri-Torpedo.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_C/C36_Tri-Torpedo.png
+C/C37_Duna.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_C/C37_Duna.png
+C/C38_Raptin.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_C/C38_Raptin.png
+C/C39_Duna-DE.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_C/C39_Duna-DE.png
+C/C40_Raptin-DE.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_C/C40_Raptin-DE.png

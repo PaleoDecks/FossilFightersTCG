@@ -1,8 +1,10 @@
 <uninstall>
 
-<dateYYMMDD>250519</dateYYMMDD>
+<dateYYMMDD>260105</dateYYMMDD>
 <removepath>sets/setimages/A</removepath>
 <removepath>sets/setimages/B</removepath>
+<removepath>sets/setimages/C</removepath>
+<removepath>sets/setimages/D</removepath>
 <removepath>sets/setimages/Status</removepath>
 <removepath>packs</removepath>
 

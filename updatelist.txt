@@ -1,9 +1,9 @@
-FFTCG	11-10-25
+FFTCG	01-05-26
 plugins/FFTCG/plugininfo.txt	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/plugininfo.txt	247811
 plugins/FFTCG/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_General_and_Tokens/General_Cardback_Lackey.jpg	-12916
-plugins/FFTCG/sets/carddata.txt	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/carddata	925910
-plugins/FFTCG/version.txt	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/version.txt	32377
-plugins/FFTCG/uninstall.txt	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/uninstall.txt	17282
+plugins/FFTCG/sets/carddata.txt	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/sets/carddata	1149164
+plugins/FFTCG/version.txt	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/version.txt	32381
+plugins/FFTCG/uninstall.txt	https://raw.githubusercontent.com/PaleoDecks/FossilFightersTCG/main/uninstall.txt	28316
 CardImageURLs:
 A/A00_Dynal.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_A/A00_Dynal.png
 A/A01_T-Rex.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_A/A01_T-Rex.png
@@ -209,3 +209,5 @@ D/D47_Pickaxe.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/
 D/D48_Antimatter_Beam.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_D/D48_Antimatter_Beam.png
 D/D49_Dino_Cakes.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_D/D49_Dino_Cakes.png
 D/D50_Squik.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_D/D50_Squik.png
+
+E/E47_Zino.png	https://raw.githubusercontent.com/PaleoDecks/FFTCG-image-pool/main/FFTCG_Lackey_E/E47_Zino.png

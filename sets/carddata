@@ -1,203 +1,204 @@
-Name	Set	ImageFile	Type	Attribute	Trait	Number
-Dynal	A	A00_Dynal.png	Action	Support	Dinaurian	A00
-T-Rex	A	A01_T-Rex.png	Vivosaur	Fire	Tyranno	A01
-S-Raptor	A	A02_S-Raptor.png	Vivosaur	Fire	L-Theropod	A02
-Giganto	A	A03_Giganto.png	Vivosaur	Fire	L-Theropod	A03
-Nychus	A	A04_Nychus.png	Vivosaur	Fire	Raptor	A04
-U-Raptor	A	A05_U-Raptor.png	Vivosaur	Fire	Raptor	A05
-Breme	A	A06_Breme.png	Vivosaur	Fire	Raptor	A06
-Daspleto	A	A07_Daspleto.png	Vivosaur	Earth	Tyranno	A07
-Venator	A	A08_Venator.png	Vivosaur	Earth	L-Theropod	A08
-Carchar	A	A09_Carchar.png	Vivosaur	Earth	L-Theropod	A09
-Acro	A	A10_Acro.png	Vivosaur	Earth	L-Theropod	A10
-Carno	A	A11_Carno.png	Vivosaur	Earth	L-Theropod	A11
-Argento	A	A12_Argento.png	Vivosaur	Earth	Sauropod	A12
-Tarbo	A	A13_Tarbo.png	Vivosaur	Air	Tyranno	A13
-Shanshan	A	A14_Shanshan.png	Vivosaur	Air	Tyranno	A14
-Metria	A	A15_Metria.png	Vivosaur	Air	L-Theropod	A15
-Spinax	A	A16_Spinax.png	Vivosaur	Air	L-Theropod	A16
-M-Raptor	A	A17_M-Raptor.png	Vivosaur	Air	Raptor	A17
-V-Raptor	A	A18_V-Raptor.png	Vivosaur	Air	Raptor	A18
-Alio	A	A19_Alio.png	Vivosaur	Water	Tyranno	A19
-Krona	A	A20_Krona.png	Vivosaur	Water	Aquatic	A20
-Futabi	A	A21_Futabi.png	Vivosaur	Water	Aquatic	A21
-Elasmo	A	A22_Elasmo.png	Vivosaur	Water	Aquatic	A22
-Plesio	A	A23_Plesio.png	Vivosaur	Water	Aquatic	A23
-Shoni	A	A24_Shoni.png	Vivosaur	Water	Aquatic	A24
-Allo	A	A25_Allo.png	Vivosaur	Neutral	L-Theropod	A25
-Megalo	A	A26_Megalo.png	Vivosaur	Neutral	L-Theropod	A26
-Neo	A	A27_Neo.png	Vivosaur	Neutral	L-Theropod	A27
-Tro	A	A28_Tro.png	Vivosaur	Neutral	Raptor	A28
-O-Raptor	A	A29_O-Raptor.png	Vivosaur	Neutral	S-Theropod	A29
-Brachio	A	A30_Brachio.png	Vivosaur	Neutral	Sauropod	A30
-Dino	A	A31_Dino.png	Action	Support		A31
-Dina	A	A32_Dina.png	Action	Support		A32
-Todd	A	A33_Todd.png	Action	Support		A33
-Joe WIldwest	A	A34_Joe_Wildwest.png	Action	Support		A34
-Pauleen	A	A35_Pauleen.png	Action	Support		A35
-Rupert	A	A36_Rupert.png	Action	Support		A36
-Nick Nack	A	A37_Nick_Nack.png	Action	Support		A37
-Dr. Diggins	A	A38_Dr_Diggins.png	Action	Support		A38
-Rosie	A	A39_Rosie.png	Action	Support		A39
-VMM	A	A40_VMM.png	Action	Support		A40
-Excavate	A	A41_Excavate.png	Action	Assist		A41
-KL-33N	A	A42_KL-33N.png	Action	Assist		A42
-Smashing Success	A	A43_Smashing_Success.png	Action	Assist		A43
-Unexpected Encounter...	A	A44_Unexpected_Encounter.png	Action	Attack		A44
-The BB Bandits!!!	A	A45_The_BB_Bandits!!!.png	Action	Attack	BB Bandit	A45
-The BareBones Brigade!!!	A	A46_The_BareBones_Brigade.png	Action	Attack	Barebone Brigade	A46
-Don Boneyard	A	A47_Don_Boneyard.png	Action	Attack	Barebone Brigade	A47
-Fossil Stadium	A	A48_Fossil_Stadium.png	Action	Arena		A48
-Treasure Lake	A	A49_Treasure_Lake.png	Action	Arena		A49
-Digadigamid	A	A50_Digadigamid.png	Action	Arena		A50
-Enrage	Status	T_Enrage.png	Token Status			
-Excite	Status	T_Excite.png	Token Status			
-Harden	Status	T_Harden.png	Token Status			
-Poison	Status	T_Poison.png	Token Status			
-Quicken	Status	T_Quicken.png	Token Status			
-Scare	Status	T_Scare.png	Token Status			
-Sleep	Status	T_Sleep.png	Token Status			
-Confuse	Status	T_Confuse.png	Token Status			
-Counter	Status	T_Counter.png	Token Status			
-Enflame	Status	T_Enflame.png	Token Status			
-1 Marker	Status	First.png	Token Status			
-2 Marker	Status	Second.png	Token Status			
-3 Marker	Status	Third.png	Token Status			
-FP Charge	A	Charge.png	Charge			
-Stygi	Starter	DECK01_Stygi.png	Vivosaur	Fire	Pachycephalo	Deck01
-Pachy	Starter	DECK02_Pachy.png	Vivosaur	Earth	Pachycephalo	Deck02
-Goyo	Starter	DECK03_Goyo.png	Vivosaur	Air	Pachycephalo	Deck03
-Bea Ginner	Starter	DECK04_Bea_Ginner.png	Action	Support		Deck04
-Mystery Girl	B	B00_Mystery_Girl.png	Action	Support	Dinaurian	B00
-Ptera	B	B01_Ptera.png	Vivosaur	Air	Pterosaur	B01
-Coatlus	B	B02_Coatlus.png	Vivosaur	Air	Pterosaur	B02
-Coelo	B	B03_Coelo.png	Vivosaur	Air	S-Theropod	B03
-Epidex	B	B04_Epidex.png	Vivosaur	Air	Raptor	B04
-Pachrino	B	B05_Pachirino.png	Vivosaur	Earth	Ceratops	B05
-Dunkle	B	B06_Dunkle.png	Vivosaur	Earth	Aquatic	B06
-Ourano	B	B07_Ourano.png	Vivosaur	Earth	Ornithopod	B07
-Seismo	B	B08_Seismo.png	Vivosaur	Earth	Sauropod	B08
-Cryo	B	B09_Cryo.png	Vivosaur	Water	L-Theropod	B09
-Onyx	B	B10_Onyx.png	Vivosaur	Water	Spinosaur	B10
-Stygi - Aqua	B	B11-Stygi_Aqua.png	Vivosaur	Water	Pachycephalo	B11
-Dimorph	B	B12_Dimorph.png	Vivosaur	Fire	Pterosaur	B12
-Sopteryx	B	B13_Sopteryx.png	Vivosaur	Fire	S-Theropod	B13
-Dinomaton	B	B14_Dinomation.png	Vivosaur	Neutral	Dinaurian	B14
-Guera	B	B15_Guera.png	Vivosaur	Neutral	Pterosaur	B15
-Jara	B	B16_Jara.png	Vivosaur	Neutral	Pterosaur	B16
-Saurhead, The Champion!	B	B17_Saurhead,_The_Champion!.png	Action	Support		B17
-Dazed	B	B18_Dazed.png	Action	Support		B18
-Nevada Montecarlo	B	B19_Nevada_Montecarlo.png	Action	Support		B19
-Dino Dummy	B	B20_Dino_Dummy.png	Action	Assist		B20
-The Journey Begins	B	B21_The_Journey_Begins.png	Action	Support		B21
-VMM - Town	B	B22_VMM_-_Town.png	Action	Support		B22
-Beth	B	B23_Beth.png	Action	Support		B23
-Captain Bullwort	B	B24_Captain_Bullwort.png	Action	Support		B24
-Greenhorn Plains	B	B25_Greenhorn_Plains.png	Action	Arena		B25
-Town Guild	B	B26_Town_Guild.png	Action	Arena		B26
-TIme Machine	B	B27_Time_Machine.png	Action	Arena		B27
-Whirlwind	B	B28_Whirlwind.png	Action	Attack		B28
-Slumber	B	B29_Slumber.png	Action	Support		B29
-Sunken Shipwreck	B	B30_Sunken_ShipWreck.png	Action	Arena		B30
-Rivet Ravine	B	B31_Rivet_Ravine.png	Action	Arena		B31
-Secret Island	B	B32_Secret_Island.png	Action	Arena	Dinaurian	B32
-Medal Stealer Joe	B	B33_Medal_Stealer_Joe.png	Action	Attack		B33
-BB Bandit's Surprise!	B	B34_BB_Bandit's_Suprise.png	Action	Attack	BB Bandit	B34
-Blambeau	B	B35_Blambeau.png	Action	Attack		B35
-Blocked Off	B	B36_Blocked_Off.png	Action	Attack		B36
-BB Bandit's Trap!	B	B37_BB_Bandit's_Trap.png	Action	Attack	BB Bandit	B37
-Tempest Barrage	B	B38_Tempest_Barrage.png	Action	Team		B38
-Titanic Shift	B	B39_Titantic_Shift.png	Action	Team		B39
-Tyrant's Burst	B	B40_Tyrant's_Burst.png	Action	Team		B40
-The Mothership	C	C00_The_Mothership.png	Action	Arena	Dinaurian	C00
-Tricera	C	C01_Tricera.png	Vivosaur	Water	Ceratops	C01
-Proto	C	C02_Proto.png	Vivosaur	Water	Ceratops	C02
-Dilopho	C	C03_Dilopho.png	Vivosaur	Water	S-Theropod	C03
-Thalasso	C	C04_Thalasso.png	Vivosaur	Water	Pterasaur	C04
-Toba	C	C05_Toba.png	Vivosaur	Water	Sauropod	C05
-Equinas	C	C06_Equians.png	Vivosaur	Water	Super Evolver	C06
-Tro - Aqua	C	C07_Tro-Aqua.png	Vivosaur	Water	Raptor	C07
-Centro	C	C08_Centro.png	Vivosaur	Earth	Ceratops	C08
-Salto	C	C09_Salto.png	Vivosaur	Earth	Sauropod	C09
-Tsintao	C	C10_Tsintao.png	Vivosaur	Earth	Ornithopod	C10
-Bulgon	C	C11_Bulgon.png	Vivosaur	Earth	Super Evolver	C11
-Ptera - Geo	C	C12_Ptera-Geo.png	Vivosaur	Earth	Pterasaur	C12
-Eino	C	C13_Einio.png	Vivosaur	Earth	Ceratops	C13
-Lambeo	C	C14_Lambeo.png	Vivosaur	Fire	Ornithopod	C14
-Gorgo	C	C15_Gorgo.png	Vivosaur	Fire	Tyranno	C15
-Andrarch	C	C16_Andrarch.png	Vivosaur	Fire	Mammal	C16
-Acro - Magma	C	C17_Acro-Magma.png	Vivosaur	Fire	L-Theropod	C17
-Dimetro	C	C18_Dimetro.png	Vivosaur	Fire	Reptile	C18
-Lugmos	C	C19_Lugmos.png	Vivosaur	Fire	Super Evolver	C19
-Styraco	C	C20_Styraco.png	Vivosaur	Air	Ceratops	C20
-Igua	C	C21_Igua.png	Vivosaur	Air	Ornithopod	C21
-Radox	C	C22_Radox.png	Vivosaur	Air	Invertebrate	C22
-S-Raptor - Gale	C	C23_S-Raptor-Gale.png	Vivosaur	Air	L-Theropod	C23
-Aeros	C	C24_Aeros.png	Vivosaur	Air	Tyranno	C24
-Teffla	C	C25_Teffla.png	Vivosaur	Air	Super Evolver	C25
-Penta	C	C26_Penta.png	Vivosaur	Neutral	Ceratops	C26
-Plesio - Zero	C	C27_Plesio-Zero.png	Vivosaur	Neutral	Aquatic	C27
-Tophis	C	C28_Tophis.png	Vivosaur	Neutral	Reptile	C28
-Miraculous Fossil	C	C29_Miraculous_Fossil.png	Action	Support		C29
-Deathly Breathe	C	C30_Deathly_Breathe.png	Action	Support		C30
-VMM - Ilium	C	C31_VMM-Ilium.png	Action	Support		C31
-KL-34N	C	C32_KL-34N.png	Action	Support		C32
-Vivosaur Town	C	C33_Vivosaur_Town.png	Action	Arena		C33
-Idol Comp Master Room	C	C34_Idol_Comp_Master_Room.png	Action	Arena		C34
-DigaDiga Village	C	C35_Digadiga_Village.png	Action	Attack		C35
-Tri-Torpedo	C	C36_Tri-Torpedo.png	Action	Team		C36
-Duna	C	C37_Duna.png	Action	Attack	Dinaurian	C37
-Raptin	C	C38_Raptin.png	Action	Attack	Dinaurian	C38
-Duna - DE	C	C39_Duna-DE.png	Vivosaur	Water	Dinaurian	C39
-Raptin - DE	C	C40_Raptin-DE.png	Vivosaur	Air	Dinaurian	C40
-Dynal - DR	D	D00_Dynal-DR.png	Vivosaur	Neutral	Dinaurian	D00
-Guan	D	D01_Guan.png	Vivosaur	Fire	Tyranno	D01
-Siamo	D	D02_Siamo.png	Vivosaur	Fire	Tyranno	D02
-Dikelo	D	D03_Dikelo.png	Vivosaur	Fire	Invertebrate	D03
-Buster Probe	D	D04_Buster_Probe.png	Action	Tool		D04
-B-Rex	D	D05_B_Rex.png	Vivosaur	Fire	Boney	D05
-B-Jara	D	D06_B_Jara.png	Vivosaur	Fire	Boney	D06
-Squirk	D	D07_Squirk.png	Vivosaur	Fire	Bird	D07
-Cryo - Magma	D	D08_Cryo_Magma.png	Vivosaur	Fire	L-Theropod	D08
-T-Rex Lord	D	D09_T-Rex_Lord.png	Vivosaur	Fire	Super Evolver	D09
-Chelon	D	D10_Chelon.png	Vivosaur	Water	Aquatic	D10
-Mammoth	D	D11_Mammoth.png	Vivosaur	Water	Mammal	D11
-B-Plesio	D	D12_B_Plesio.png	Vivosaur	Water	Boney	D12
-B-Tricera	D	D13_B_Tricera.png	Vivosaur	Water	Boney	D13
-Squilk	D	D14_Squilk.png	Vivosaur	Water	Bird	D14
-Argento - Aqua	D	D15_Argento_Aqua.png	Vivosaur	Water	Sauropod	D15
-Heracles	D	D16_Heracles.png	Vivosaur	Water	Super Evolver	D16
-B-Lambeo	D	D17_B-Lambeo.png	Vivosaur	Air	Boney	D17
-B-Ptera	D	D18_B_Ptera.png	Vivosaur	Air	Boney	D18
-Squiro	D	D19_Squiro.png	Vivosaur	Air	Bird	D19
-Breme - Gale	D	D20_Breme_Gale.png	Vivosaur	Air	Raptor	D20
-Giga Spinax	D	D21_Giga_Spinax.png	Vivosaur	Air	Super Evolver	D21
-Terata	D	D22_Tetera.png	Vivosaur	Earth	Invertebrate	D22
-Squirth	D	D23_Squirth.png	Vivosaur	Earth	Bird	D23
-Brachio - Geo	D	D24_Brachio_Geo.png	Vivosaur	Earth	Sauropod	D24
-Caveman Diggins	D	D25_Caveman_Diggins.png	Vivosaur	Neutral	Mammal	D25
-B-Brachio	D	D26_B_Brachio.png	Vivosaur	Neutral	Boney	D26
-Spinax - Zero	D	D27_Spinax_Zero.png	Vivosaur	Neutral	L-Theropod	D27
-BB - Base	D	D28_BB_Base.png	Action	Arena	BB Bandit	D28
-The Barebones Brigade Base	D	D29_BareBones_Brigade_Base.png	Action	Arena	Barebones Brigade	D29
-FossilDig CEO	D	D30_FossilDig_CEO.png	Action	Support		D30
-Mr. Richmond	D	D31_Mr.Richmond.png	Action	Support		D31
-Rockin' Billy	D	D32_Rockin_Billy.png	Action	Support		D32
-Caliosteo Pipsqueak	D	D33_Calisteo_Pipsqueak.png	Action	Tool		D33
-The Barebones Brigade Goons	D	D34_BareBones_Brigade_Grunts.png	Action	Support	Barebones Brigade	D34
-Barebones Captain - Lola	D	D35_BareBones_Brigade_Captain_Lola.png	Action	Support	Barebones Brigade	D35
-Barebones Brigade - Lester	D	D36_BareBones_Brigade_Captain_Lester.png	Action	Support	Barebones Brigade	D36
-Barebones Brigade - Cole	D	D37_BareBones_Brigade_Captain_Cole.png	Action	Support	Barebones Brigade	D37
-Vivian	D	D38_Vivian.png	Action	Attack	BB Bandit	D38
-Snivels	D	D39_Snivels.png	Action	Attack	BB Bandit	D39
-Rex	D	D40_Rex.png	Action	Attack	BB Bandit	D40
-Light 4WD	D	D41_Light_4WD.png	Action	Support		D41
-DI66-R	D	D42_Di66_R.png	Action	Support		D42
-Scary Monster Machine!	D	D43_Scary_Monster_Machine.png	Action	Attack		D43
-VMM - Cranial	D	D44_VMM_Cranial.png	Action	Assist		D44
-Mount Lavaflow	D	D45_Mount_Lavaflow.png	Action	Arena		D45
-Fossil Cannon	D	D46_Fossil_Cannon.png	Action	Support		D46
-Pickaxe	D	D47_Pickaxe.png	Action	Tool		D47
-Antimatter Beam	D	D48_Antimatter_Beam.png	Action	Team		D48
-Dino Cakes	D	D49_Dino_Cakes.png	Action	Tool		D49
-Squik	D	D50_Squik.png	Vivosaur	Neutral		D50
+Name	Set	ImageFile	Type	Attribute	Trait	Number	
+Dynal	A	A00_Dynal.png	Action	Support	Dinaurian	A00	A00_Dynal.png
+T-Rex	A	A01_T-Rex.png	Vivosaur	Fire	Tyranno	A01	A01_T-Rex.png
+S-Raptor	A	A02_S-Raptor.png	Vivosaur	Fire	L-Theropod	A02	A02_S-Raptor.png
+Giganto	A	A03_Giganto.png	Vivosaur	Fire	L-Theropod	A03	A03_Giganto.png
+Nychus	A	A04_Nychus.png	Vivosaur	Fire	Raptor	A04	A04_Nychus.png
+U-Raptor	A	A05_U-Raptor.png	Vivosaur	Fire	Raptor	A05	A05_U-Raptor.png
+Breme	A	A06_Breme.png	Vivosaur	Fire	Raptor	A06	A06_Breme.png
+Daspleto	A	A07_Daspleto.png	Vivosaur	Earth	Tyranno	A07	A07_Daspleto.png
+Venator	A	A08_Venator.png	Vivosaur	Earth	L-Theropod	A08	A08_Venator.png
+Carchar	A	A09_Carchar.png	Vivosaur	Earth	L-Theropod	A09	A09_Carchar.png
+Acro	A	A10_Acro.png	Vivosaur	Earth	L-Theropod	A10	A10_Acro.png
+Carno	A	A11_Carno.png	Vivosaur	Earth	L-Theropod	A11	A11_Carno.png
+Argento	A	A12_Argento.png	Vivosaur	Earth	Sauropod	A12	A12_Argento.png
+Tarbo	A	A13_Tarbo.png	Vivosaur	Air	Tyranno	A13	A13_Tarbo.png
+Shanshan	A	A14_Shanshan.png	Vivosaur	Air	Tyranno	A14	A14_Shanshan.png
+Metria	A	A15_Metria.png	Vivosaur	Air	L-Theropod	A15	A15_Metria.png
+Spinax	A	A16_Spinax.png	Vivosaur	Air	L-Theropod	A16	A16_Spinax.png
+M-Raptor	A	A17_M-Raptor.png	Vivosaur	Air	Raptor	A17	A17_M-Raptor.png
+V-Raptor	A	A18_V-Raptor.png	Vivosaur	Air	Raptor	A18	A18_V-Raptor.png
+Alio	A	A19_Alio.png	Vivosaur	Water	Tyranno	A19	A19_Alio.png
+Krona	A	A20_Krona.png	Vivosaur	Water	Aquatic	A20	A20_Krona.png
+Futabi	A	A21_Futabi.png	Vivosaur	Water	Aquatic	A21	A21_Futabi.png
+Elasmo	A	A22_Elasmo.png	Vivosaur	Water	Aquatic	A22	A22_Elasmo.png
+Plesio	A	A23_Plesio.png	Vivosaur	Water	Aquatic	A23	A23_Plesio.png
+Shoni	A	A24_Shoni.png	Vivosaur	Water	Aquatic	A24	A24_Shoni.png
+Allo	A	A25_Allo.png	Vivosaur	Neutral	L-Theropod	A25	A25_Allo.png
+Megalo	A	A26_Megalo.png	Vivosaur	Neutral	L-Theropod	A26	A26_Megalo.png
+Neo	A	A27_Neo.png	Vivosaur	Neutral	L-Theropod	A27	A27_Neo.png
+Tro	A	A28_Tro.png	Vivosaur	Neutral	Raptor	A28	A28_Tro.png
+O-Raptor	A	A29_O-Raptor.png	Vivosaur	Neutral	S-Theropod	A29	A29_O-Raptor.png
+Brachio	A	A30_Brachio.png	Vivosaur	Neutral	Sauropod	A30	A30_Brachio.png
+Dino	A	A31_Dino.png	Action	Support		A31	A31_Dino.png
+Dina	A	A32_Dina.png	Action	Support		A32	A32_Dina.png
+Todd	A	A33_Todd.png	Action	Support		A33	A33_Todd.png
+Joe WIldwest	A	A34_Joe_Wildwest.png	Action	Support		A34	A34_Joe_Wildwest.png
+Pauleen	A	A35_Pauleen.png	Action	Support		A35	A35_Pauleen.png
+Rupert	A	A36_Rupert.png	Action	Support		A36	A36_Rupert.png
+Nick Nack	A	A37_Nick_Nack.png	Action	Support		A37	A37_Nick_Nack.png
+Dr. Diggins	A	A38_Dr_Diggins.png	Action	Support		A38	A38_Dr_Diggins.png
+Rosie	A	A39_Rosie.png	Action	Support		A39	A39_Rosie.png
+VMM	A	A40_VMM.png	Action	Support		A40	A40_VMM.png
+Excavate	A	A41_Excavate.png	Action	Assist		A41	A41_Excavate.png
+KL-33N	A	A42_KL-33N.png	Action	Assist		A42	A42_KL-33N.png
+Smashing Success	A	A43_Smashing_Success.png	Action	Assist		A43	A43_Smashing_Success.png
+Unexpected Encounter...	A	A44_Unexpected_Encounter.png	Action	Attack		A44	A44_Unexpected_Encounter.png
+The BB Bandits!!!	A	A45_The_BB_Bandits!!!.png	Action	Attack	BB Bandit	A45	A45_The_BB_Bandits!!!.png
+The BareBones Brigade!!!	A	A46_The_BareBones_Brigade.png	Action	Attack	Barebone Brigade	A46	A46_The_BareBones_Brigade.png
+Don Boneyard	A	A47_Don_Boneyard.png	Action	Attack	Barebone Brigade	A47	A47_Don_Boneyard.png
+Fossil Stadium	A	A48_Fossil_Stadium.png	Action	Arena		A48	A48_Fossil_Stadium.png
+Treasure Lake	A	A49_Treasure_Lake.png	Action	Arena		A49	A49_Treasure_Lake.png
+Digadigamid	A	A50_Digadigamid.png	Action	Arena		A50	A50_Digadigamid.png
+Enrage	Status	T_Enrage.png	Token Status				
+Excite	Status	T_Excite.png	Token Status				
+Harden	Status	T_Harden.png	Token Status				
+Poison	Status	T_Poison.png	Token Status				
+Quicken	Status	T_Quicken.png	Token Status				
+Scare	Status	T_Scare.png	Token Status				
+Sleep	Status	T_Sleep.png	Token Status				
+Confuse	Status	T_Confuse.png	Token Status				
+Counter	Status	T_Counter.png	Token Status				
+Enflame	Status	T_Enflame.png	Token Status				
+1 Marker	Status	First.png	Token Status				
+2 Marker	Status	Second.png	Token Status				
+3 Marker	Status	Third.png	Token Status				
+FP Charge	A	Charge.png	Charge				
+Stygi	Starter	DECK01_Stygi.png	Vivosaur	Fire	Pachycephalo	Deck01	
+Pachy	Starter	DECK02_Pachy.png	Vivosaur	Earth	Pachycephalo	Deck02	
+Goyo	Starter	DECK03_Goyo.png	Vivosaur	Air	Pachycephalo	Deck03	
+Bea Ginner	Starter	DECK04_Bea_Ginner.png	Action	Support		Deck04	
+Mystery Girl	B	B00_Mystery_Girl.png	Action	Support	Dinaurian	B00	
+Ptera	B	B01_Ptera.png	Vivosaur	Air	Pterosaur	B01	
+Coatlus	B	B02_Coatlus.png	Vivosaur	Air	Pterosaur	B02	
+Coelo	B	B03_Coelo.png	Vivosaur	Air	S-Theropod	B03	
+Epidex	B	B04_Epidex.png	Vivosaur	Air	Raptor	B04	
+Pachrino	B	B05_Pachirino.png	Vivosaur	Earth	Ceratops	B05	
+Dunkle	B	B06_Dunkle.png	Vivosaur	Earth	Aquatic	B06	
+Ourano	B	B07_Ourano.png	Vivosaur	Earth	Ornithopod	B07	
+Seismo	B	B08_Seismo.png	Vivosaur	Earth	Sauropod	B08	
+Cryo	B	B09_Cryo.png	Vivosaur	Water	L-Theropod	B09	
+Onyx	B	B10_Onyx.png	Vivosaur	Water	Spinosaur	B10	
+Stygi - Aqua	B	B11-Stygi_Aqua.png	Vivosaur	Water	Pachycephalo	B11	
+Dimorph	B	B12_Dimorph.png	Vivosaur	Fire	Pterosaur	B12	
+Sopteryx	B	B13_Sopteryx.png	Vivosaur	Fire	S-Theropod	B13	
+Dinomaton	B	B14_Dinomation.png	Vivosaur	Neutral	Dinaurian	B14	
+Guera	B	B15_Guera.png	Vivosaur	Neutral	Pterosaur	B15	
+Jara	B	B16_Jara.png	Vivosaur	Neutral	Pterosaur	B16	
+Saurhead, The Champion!	B	B17_Saurhead,_The_Champion!.png	Action	Support		B17	
+Dazed	B	B18_Dazed.png	Action	Support		B18	
+Nevada Montecarlo	B	B19_Nevada_Montecarlo.png	Action	Support		B19	
+Dino Dummy	B	B20_Dino_Dummy.png	Action	Assist		B20	
+The Journey Begins	B	B21_The_Journey_Begins.png	Action	Support		B21	
+VMM - Town	B	B22_VMM_-_Town.png	Action	Support		B22	
+Beth	B	B23_Beth.png	Action	Support		B23	
+Captain Bullwort	B	B24_Captain_Bullwort.png	Action	Support		B24	
+Greenhorn Plains	B	B25_Greenhorn_Plains.png	Action	Arena		B25	
+Town Guild	B	B26_Town_Guild.png	Action	Arena		B26	
+TIme Machine	B	B27_Time_Machine.png	Action	Arena		B27	
+Whirlwind	B	B28_Whirlwind.png	Action	Attack		B28	
+Slumber	B	B29_Slumber.png	Action	Support		B29	
+Sunken Shipwreck	B	B30_Sunken_ShipWreck.png	Action	Arena		B30	
+Rivet Ravine	B	B31_Rivet_Ravine.png	Action	Arena		B31	
+Secret Island	B	B32_Secret_Island.png	Action	Arena	Dinaurian	B32	
+Medal Stealer Joe	B	B33_Medal_Stealer_Joe.png	Action	Attack		B33	
+BB Bandit's Surprise!	B	B34_BB_Bandit's_Suprise.png	Action	Attack	BB Bandit	B34	
+Blambeau	B	B35_Blambeau.png	Action	Attack		B35	
+Blocked Off	B	B36_Blocked_Off.png	Action	Attack		B36	
+BB Bandit's Trap!	B	B37_BB_Bandit's_Trap.png	Action	Attack	BB Bandit	B37	
+Tempest Barrage	B	B38_Tempest_Barrage.png	Action	Team		B38	
+Titanic Shift	B	B39_Titantic_Shift.png	Action	Team		B39	
+Tyrant's Burst	B	B40_Tyrant's_Burst.png	Action	Team		B40	
+The Mothership	C	C00_The_Mothership.png	Action	Arena	Dinaurian	C00	C00_The_Mothership.png
+Tricera	C	C01_Tricera.png	Vivosaur	Water	Ceratops	C01	C01_Tricera.png
+Proto	C	C02_Proto.png	Vivosaur	Water	Ceratops	C02	C02_Proto.png
+Dilopho	C	C03_Dilopho.png	Vivosaur	Water	S-Theropod	C03	C03_Dilopho.png
+Thalasso	C	C04_Thalasso.png	Vivosaur	Water	Pterasaur	C04	C04_Thalasso.png
+Toba	C	C05_Toba.png	Vivosaur	Water	Sauropod	C05	C05_Toba.png
+Equinas	C	C06_Equians.png	Vivosaur	Water	Super Evolver	C06	C06_Equians.png
+Tro - Aqua	C	C07_Tro-Aqua.png	Vivosaur	Water	Raptor	C07	C07_Tro-Aqua.png
+Centro	C	C08_Centro.png	Vivosaur	Earth	Ceratops	C08	C08_Centro.png
+Salto	C	C09_Salto.png	Vivosaur	Earth	Sauropod	C09	C09_Salto.png
+Tsintao	C	C10_Tsintao.png	Vivosaur	Earth	Ornithopod	C10	C10_Tsintao.png
+Bulgon	C	C11_Bulgon.png	Vivosaur	Earth	Super Evolver	C11	C11_Bulgon.png
+Ptera - Geo	C	C12_Ptera-Geo.png	Vivosaur	Earth	Pterasaur	C12	C12_Ptera-Geo.png
+Einio	C	C13_Einio.png	Vivosaur	Fire	Ceratops	C13	C13_Einio.png
+Lambeo	C	C14_Lambeo.png	Vivosaur	Fire	Ornithopod	C14	C14_Lambeo.png
+Gorgo	C	C15_Gorgo.png	Vivosaur	Fire	Tyranno	C15	C15_Gorgo.png
+Andrarch	C	C16_Andrarch.png	Vivosaur	Fire	Mammal	C16	C16_Andrarch.png
+Acro - Magma	C	C17_Acro-Magma.png	Vivosaur	Fire	L-Theropod	C17	C17_Acro-Magma.png
+Dimetro	C	C18_Dimetro.png	Vivosaur	Fire	Reptile	C18	C18_Dimetro.png
+Lugmos	C	C19_Lugmos.png	Vivosaur	Fire	Super Evolver	C19	C19_Lugmos.png
+Styraco	C	C20_Styraco.png	Vivosaur	Air	Ceratops	C20	C20_Styraco.png
+Igua	C	C21_Igua.png	Vivosaur	Air	Ornithopod	C21	C21_Igua.png
+Radox	C	C22_Radox.png	Vivosaur	Air	Invertebrate	C22	C22_Radox.png
+S-Raptor - Gale	C	C23_S-Raptor-Gale.png	Vivosaur	Air	L-Theropod	C23	C23_S-Raptor-Gale.png
+Aeros	C	C24_Aeros.png	Vivosaur	Air	Tyranno	C24	C24_Aeros.png
+Teffla	C	C25_Teffla.png	Vivosaur	Air	Super Evolver	C25	C25_Teffla.png
+Penta	C	C26_Penta.png	Vivosaur	Neutral	Ceratops	C26	C26_Penta.png
+Plesio - Zero	C	C27_Plesio-Zero.png	Vivosaur	Neutral	Aquatic	C27	C27_Plesio-Zero.png
+Tophis	C	C28_Tophis.png	Vivosaur	Neutral	Reptile	C28	C28_Tophis.png
+Miraculous Fossil	C	C29_Miraculous_Fossil.png	Action	Support		C29	C29_Miraculous_Fossil.png
+Deathly Breathe	C	C30_Deathly_Breathe.png	Action	Support		C30	C30_Deathly_Breathe.png
+VMM - Ilium	C	C31_VMM-Ilium.png	Action	Support		C31	C31_VMM-Ilium.png
+KL-34N	C	C32_KL-34N.png	Action	Support		C32	C32_KL-34N.png
+Vivosaur Town	C	C33_Vivosaur_Town.png	Action	Arena		C33	C33_Vivosaur_Town.png
+Idol Comp Master Room	C	C34_Idol_Comp_Master_Room.png	Action	Arena		C34	C34_Idol_Comp_Master_Room.png
+DigaDiga Village	C	C35_Digadiga_Village.png	Action	Arena		C35	C35_Digadiga_Village.png
+Tri-Torpedo	C	C36_Tri-Torpedo.png	Action	Team		C36	C36_Tri-Torpedo.png
+Duna	C	C37_Duna.png	Action	Attack	Dinaurian	C37	C37_Duna.png
+Raptin	C	C38_Raptin.png	Action	Attack	Dinaurian	C38	C38_Raptin.png
+Duna - DE	C	C39_Duna-DE.png	Vivosaur	Water	Dinaurian	C39	C39_Duna-DE.png
+Raptin - DE	C	C40_Raptin-DE.png	Vivosaur	Air	Dinaurian	C40	C40_Raptin-DE.png
+Dynal - DR	D	D00_Dynal-DR.png	Vivosaur	Neutral	Dinaurian	D00	D00_Dynal-DR.png
+Guan	D	D01_Guan.png	Vivosaur	Fire	Tyranno	D01	D01_Guan.png
+Siamo	D	D02_Siamo.png	Vivosaur	Fire	Tyranno	D02	D02_Siamo.png
+Dikelo	D	D03_Dikelo.png	Vivosaur	Fire	Invertebrate	D03	D03_Dikelo.png
+Buster Probe	D	D04_Buster_Probe.png	Action	Tool		D04	D04_Buster_Probe.png
+B-Rex	D	D05_B_Rex.png	Vivosaur	Fire	Boney	D05	D05_B_Rex.png
+B-Jara	D	D06_B_Jara.png	Vivosaur	Fire	Boney	D06	D06_B_Jara.png
+Squirk	D	D07_Squirk.png	Vivosaur	Fire	Bird	D07	D07_Squirk.png
+Cryo - Magma	D	D08_Cryo_Magma.png	Vivosaur	Fire	L-Theropod	D08	D08_Cryo_Magma.png
+T-Rex Lord	D	D09_T-Rex_Lord.png	Vivosaur	Fire	Super Evolver	D09	D09_T-Rex_Lord.png
+Chelon	D	D10_Chelon.png	Vivosaur	Water	Aquatic	D10	D10_Chelon.png
+Mammoth	D	D11_Mammoth.png	Vivosaur	Water	Mammal	D11	D11_Mammoth.png
+B-Plesio	D	D12_B_Plesio.png	Vivosaur	Water	Boney	D12	D12_B_Plesio.png
+B-Tricera	D	D13_B_Tricera.png	Vivosaur	Water	Boney	D13	D13_B_Tricera.png
+Squilk	D	D14_Squilk.png	Vivosaur	Water	Bird	D14	D14_Squilk.png
+Argento - Aqua	D	D15_Argento_Aqua.png	Vivosaur	Water	Sauropod	D15	D15_Argento_Aqua.png
+Heracles	D	D16_Heracles.png	Vivosaur	Water	Super Evolver	D16	D16_Heracles.png
+B-Lambeo	D	D17_B-Lambeo.png	Vivosaur	Air	Boney	D17	D17_B-Lambeo.png
+B-Ptera	D	D18_B_Ptera.png	Vivosaur	Air	Boney	D18	D18_B_Ptera.png
+Squiro	D	D19_Squiro.png	Vivosaur	Air	Bird	D19	D19_Squiro.png
+Breme - Gale	D	D20_Breme_Gale.png	Vivosaur	Air	Raptor	D20	D20_Breme_Gale.png
+Giga Spinax	D	D21_Giga_Spinax.png	Vivosaur	Air	Super Evolver	D21	D21_Giga_Spinax.png
+Terata	D	D22_Tetera.png	Vivosaur	Earth	Invertebrate	D22	D22_Tetera.png
+Squirth	D	D23_Squirth.png	Vivosaur	Earth	Bird	D23	D23_Squirth.png
+Brachio - Geo	D	D24_Brachio_Geo.png	Vivosaur	Earth	Sauropod	D24	D24_Brachio_Geo.png
+Caveman Diggins	D	D25_Caveman_Diggins.png	Vivosaur	Neutral	Mammal	D25	D25_Caveman_Diggins.png
+B-Brachio	D	D26_B_Brachio.png	Vivosaur	Neutral	Boney	D26	D26_B_Brachio.png
+Spinax - Zero	D	D27_Spinax_Zero.png	Vivosaur	Neutral	L-Theropod	D27	D27_Spinax_Zero.png
+BB - Base	D	D28_BB_Base.png	Action	Arena	BB Bandit	D28	D28_BB_Base.png
+The Barebones Brigade Base	D	D29_BareBones_Brigade_Base.png	Action	Arena	Barebones Brigade	D29	D29_BareBones_Brigade_Base.png
+FossilDig CEO	D	D30_FossilDig_CEO.png	Action	Support		D30	D30_FossilDig_CEO.png
+Mr. Richmond	D	D31_Mr.Richmond.png	Action	Support		D31	D31_Mr.Richmond.png
+Rockin' Billy	D	D32_Rockin_Billy.png	Action	Support		D32	D32_Rockin_Billy.png
+Caliosteo Pipsqueak	D	D33_Calisteo_Pipsqueak.png	Action	Tool		D33	D33_Calisteo_Pipsqueak.png
+The Barebones Brigade Goons	D	D34_BareBones_Brigade_Grunts.png	Action	Support	Barebones Brigade	D34	D34_BareBones_Brigade_Grunts.png
+Barebones Captain - Lola	D	D35_BareBones_Brigade_Captain_Lola.png	Action	Support	Barebones Brigade	D35	D35_BareBones_Brigade_Captain_Lola.png
+Barebones Brigade - Lester	D	D36_BareBones_Brigade_Captain_Lester.png	Action	Support	Barebones Brigade	D36	D36_BareBones_Brigade_Captain_Lester.png
+Barebones Brigade - Cole	D	D37_BareBones_Brigade_Captain_Cole.png	Action	Support	Barebones Brigade	D37	D37_BareBones_Brigade_Captain_Cole.png
+Vivian	D	D38_Vivian.png	Action	Attack	BB Bandit	D38	D38_Vivian.png
+Snivels	D	D39_Snivels.png	Action	Attack	BB Bandit	D39	D39_Snivels.png
+Rex	D	D40_Rex.png	Action	Attack	BB Bandit	D40	D40_Rex.png
+Light 4WD	D	D41_Light_4WD.png	Action	Support		D41	D41_Light_4WD.png
+DI66-R	D	D42_Di66_R.png	Action	Support		D42	D42_Di66_R.png
+Scary Monster Machine!	D	D43_Scary_Monster_Machine.png	Action	Attack		D43	D43_Scary_Monster_Machine.png
+VMM - Cranial	D	D44_VMM_Cranial.png	Action	Assist		D44	D44_VMM_Cranial.png
+Mount Lavaflow	D	D45_Mount_Lavaflow.png	Action	Arena		D45	D45_Mount_Lavaflow.png
+Fossil Cannon	D	D46_Fossil_Cannon.png	Action	Support		D46	D46_Fossil_Cannon.png
+Pickaxe	D	D47_Pickaxe.png	Action	Tool		D47	D47_Pickaxe.png
+Antimatter Beam	D	D48_Antimatter_Beam.png	Action	Team		D48	D48_Antimatter_Beam.png
+Dino Cakes	D	D49_Dino_Cakes.png	Action	Tool		D49	D49_Dino_Cakes.png
+Squik	D	D50_Squik.png	Vivosaur	Neutral	Bird	D50	D50_Squik.png
+Zino	E	E47_Zino.png	Vivosaur	Fire	L Theropod	E47	
